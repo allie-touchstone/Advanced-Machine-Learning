@@ -9,5 +9,5 @@ Team Members: Avery Shepherd, Allie Touchstone
 
 ### Assignment 2
 * HW 2
-* SgD_samples-1.csv
+* SGD_samples-1.csv
 * data.npy
