@@ -8,3 +8,6 @@ Team Members: Avery Shepherd, Allie Touchstone
 * HW 1 Solution
 
 ### Assignment 2
+* HW 2
+* SgD_samples-1.csv
+* data.npy
