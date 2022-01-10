@@ -15,6 +15,12 @@ Team Members: Avery Shepherd, Allie Touchstone
 
 ### Assignment 3
 * HW 3
+* MIS382N_HW3
+* Q3_train_dataset
+* SGD_samples
+* Q3_test_dataset
+* sales_data
+* HW 3 Solution
 
 ### Assignment 4
 * HW 4
