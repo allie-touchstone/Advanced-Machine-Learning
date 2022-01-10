@@ -23,6 +23,9 @@ Team Members: Avery Shepherd, Allie Touchstone
 
 ### Assignment 4
 * HW 4
+* adult.csv
+* diabetes.csv
+* q2_sata.npy
 
 ### Assignment 5
 * HW 5
